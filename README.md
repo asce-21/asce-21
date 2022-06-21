@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @asce-21
 - 👀 I’m interested in CyberSecurity
-- 🌱 I’m currently learning python automation and Application Security Testing
+- 🌱 I’m currently learning python and Application Security
 
 
 <!---
